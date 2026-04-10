@@ -94,7 +94,7 @@ POST http://localhost:8080/webhook
 ![Postman Test](screenshots/postman.png)
 
 ### 🔹 Console Logs
-![Logs](screenshots/logs.png)
+![Logs](screenshots/console-logs.png)
 
 ---
 
