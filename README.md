@@ -90,11 +90,11 @@ POST http://localhost:8080/webhook
 
 ## 📸 Screenshots
 
-> Add screenshots here:
+### 🔹 API Request & Response
+![Postman Test](screenshots/postman.png)
 
-* Postman request/response
-* Console logs
-* Running application
+### 🔹 Console Logs
+![Logs](screenshots/logs.png)
 
 ---
 
