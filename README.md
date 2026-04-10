@@ -100,13 +100,13 @@ POST http://localhost:8080/webhook
 
 ## 🎥 Demo Video
 
-> Add your demo video link here (2–3 minutes)
+
 
 ---
 
 ## 🌐 Deployment (Bonus)
 
-> Add your deployed link here (Render or any platform)
+
 
 ---
 
