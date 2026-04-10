@@ -1,6 +1,6 @@
-package com.internshala.assignments.service;
+package com.chatbot.service;
 
-import com.internshala.assignments.model.MessageResponse;
+import com.chatbot.model.MessageResponse;
 import org.springframework.stereotype.Service;
 
 @Service

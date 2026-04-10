@@ -1,9 +1,9 @@
-package com.internshala.assignments.controller;
+package com.chatbot.controller;
 
-import com.internshala.assignments.model.MessageRequest;
-import com.internshala.assignments.model.MessageResponse;
-import com.internshala.assignments.service.ChatBotService;
-import com.internshala.assignments.service.ChatBotServiceImpl;
+import com.chatbot.model.MessageRequest;
+import com.chatbot.model.MessageResponse;
+import com.chatbot.service.ChatBotService;
+import com.chatbot.service.ChatBotServiceImpl;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

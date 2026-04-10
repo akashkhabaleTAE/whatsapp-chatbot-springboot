@@ -1,4 +1,4 @@
-package com.internshala.assignments.model;
+package com.chatbot.model;
 
 import lombok.*;
 
