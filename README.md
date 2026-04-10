@@ -121,5 +121,5 @@ POST http://localhost:8080/webhook
 
 ## 👨‍💻 Author
 
-Akash Khab
+Akash Khabale
 (Java Backend Developer Trainee)
