@@ -28,7 +28,7 @@ public class WebHookController
 
     @PostMapping
     public ResponseEntity<MessageResponse> receiveMessage(@RequestBody MessageRequest messageRequest) {
-        logger.info("Incoming message" + messageRequest.getMessage());
+        logger.info("Incoming message  " + messageRequest.getMessage());
         final MessageResponse messageResponse = this.chatBotService.sendMessage(messageRequest.getMessage());
         return new ResponseEntity<>(messageResponse, HttpStatus.OK);
     }
